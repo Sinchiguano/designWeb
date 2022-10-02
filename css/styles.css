@@ -2,14 +2,14 @@
 
 body {
   font-size: 16px;
-  color: #fff;
-  background-color: #61122f;
+  color: white ;/*#fff*/
+  background-color: blue; /*#61122f;   #f6b319*/
   font-family: 'Oxygen', sans-serif;
 }
 
 /** HEADER **/
 #header-nav {
-  background-color: #f6b319;
+  background-color: white;
   border-radius: 0;
   border: 0;
 }
